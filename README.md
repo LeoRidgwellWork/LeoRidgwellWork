@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/leoridgwell">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="mailto:work.leo@ridgwell.family">
+  <a href="mailto:leo@ridgwell.family">
     <img src="https://img.shields.io/badge/email-EA4335?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
   <h1>
@@ -39,7 +39,7 @@
   <a href="https://linkedin.com/in/leoridgwell">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="mailto:work.leo@ridgwell.family">
+  <a href="mailto:leo@ridgwell.family">
     <img src="https://img.shields.io/badge/email-EA4335?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
 </p>
