@@ -1,62 +1,49 @@
-# Leo Ridgwell
-
-### Senior Software Engineer @ DRE Digital
-
-[![DRE Digital](https://img.shields.io/badge/DRE%20Digital-Data%20Platform-0070C9?style=for-the-badge)](https://dredigital.co.uk) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/leoridgwell) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Leo-Ridgwell)
-
-------------------------------------------------------------------------
-
-## 👋 About Me
-
-I'm a **Senior Software Engineer** at **DRE Digital**, where I focus on building robust, scalable solutions for the **DDX data platform** --- a trusted single source of truth for enterprise data.
-
-With a passion for clean code, system design, and solving complex technical challenges, I'm committed to delivering high-quality software that drives real business value.
-
-------------------------------------------------------------------------
-
-## 💼 Current Role
-
-At **DRE Digital**, I contribute to:
-
--   **Data Platform Development** -- Building and maintaining the DDX platform for data curation, cataloguing, and exchange.  
--   **Enterprise Solutions** -- Designing scalable architectures for data governance and intelligence.  
--   **System Integration** -- Developing IoT and Industry IoT infrastructure solutions.  
--   **Technical Excellence** -- Ensuring code quality, performance, and intainability across the platform.
-
-------------------------------------------------------------------------
-
-## 🛠️ Skills & Technologies
-
-### Core Competencies
-
--   **Software Architecture** -- Design patterns, SOLID principles, and system design.  
--   **Cloud & Infrastructure** -- Modern deployment practices and infrastructure as code.  
--   **Data Engineering** -- Data pipeline design, ETL processes, and data quality.  
--   **Full-Stack Development** -- Backend, frontend, and database technologies.  
-
-### Languages & Frameworks
-
-*Check out my pinned repositories to see my latest work in action!*
-
-------------------------------------------------------------------------
-
-## 🚀 What I'm Focused On
-
--   Building enterprise-grade data solutions.  
--   Mentoring junior engineers and fostering technical excellence.  
--   Contributing to open-source projects.  
--   Staying current with emerging technologies and best practices.  
-
-------------------------------------------------------------------------
-
-## 📫 Get In Touch
-
--   **Work Inquiries** -- [Email me](mailto:leo@dredigital.co.uk)  
--   **GitHub** -- [@Leo-Ridgwell](https://github.com/Leo-Ridgwell)  
--   **LinkedIn** -- [Connect with me](https://linkedin.com/in/leoridgwell)
-
-------------------------------------------------------------------------
-
-*Always learning, always building. Let's create something great together.*
+<div align="center">
+  <img src="https://github.com/Leo-Ridgwell.png" width="100px">
+  <br>
+  <a href="https://linkedin.com/in/leoridgwell">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="mailto:work.leo@ridgwell.family">
+    <img src="https://img.shields.io/badge/email-EA4335?logo=gmail&logoColor=white&style=for-the-badge">
+  </a>
+  <h1>
+    Hi, I'm <a href="https://github.com/Leo-Ridgwell">Leo Ridgwell</a>
+  </h1>
+  <h3>
+    Senior Software Engineer | Looking for Work
+  </h3>
+</div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leo-Ridgwell/.github/snake/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leo-Ridgwell/.github/snake/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Leo-Ridgwell/.github/snake/snake.svg" />
+  </picture>
+</div>
+<h1>About Me</h1>
+<i>Building enterprise data platforms ● Clean code advocate ● Always engineering</i>
+<h2>About Me</h2>
+<p>
+  I'm a Senior Software Engineer with a passion for building robust, scalable software. I focus on data platform development, enterprise architecture, IoT system integration, and maintaining technical excellence across the full stack.
+</p>
+<h2>What I'm Focused On</h2>
+<p>
+  Building enterprise-grade data solutions ● Mentoring junior engineers ● Contributing to open-source ● Staying current with emerging technologies
+</p>
+<h2>My Stats</h2>
+<div>
+  <img width="512" src="https://raw.githubusercontent.com/Leo-Ridgwell/.github/metrics/stats.svg">
+</div>
+<h2>Get In Touch</h2>
+<p>
+  <a href="https://linkedin.com/in/leoridgwell">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="mailto:work.leo@ridgwell.family">
+    <img src="https://img.shields.io/badge/email-EA4335?logo=gmail&logoColor=white&style=for-the-badge">
+  </a>
+</p>
+<p>
+  <a href="https://leo.ridgwell.family"><b>Click here to contact me for serious business enquiries</b></a>
+</p>
