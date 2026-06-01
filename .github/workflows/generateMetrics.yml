@@ -40,7 +40,7 @@ jobs:
 
           user: LeoRidgwellWork
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community
           config_timezone: Europe/London
           config_output: svg
           config_padding: 25%, 30
