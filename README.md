@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/LeoRidgwellWork.png" width="100px">
+  <img src="https://github.com/LeoRidgwellWork.png" width="100px" style="border-radius:50%">
   <br>
   <a href="https://linkedin.com/in/leoridgwell">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
