@@ -1,0 +1,50 @@
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+name: Generate Snakes
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Ensure snake branch exists
+        run: |
+          gh api "repos/$GITHUB_REPOSITORY/git/refs/heads/snake" --silent 2>/dev/null || \
+          gh api "repos/$GITHUB_REPOSITORY/git/refs" \
+            --method POST \
+            -f ref="refs/heads/snake" \
+            -f sha="$(gh api "repos/$GITHUB_REPOSITORY/git/refs/heads/main" --jq '.object.sha')"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  snake:
+    needs: setup
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk/svg-only@v3
+        id: snake-gif
+        with:
+          github_user_name: LeoRidgwellWork
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - run: git status
+      - uses: crazy-max/ghaction-github-pages@v4.1.0
+        with:
+          target_branch: snake
+          build_dir: dist
+          commit_message: "build: update `snake`"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
